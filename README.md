@@ -9,6 +9,7 @@ A brief overview on how to make a basic Alexa skill using Java on AWS Lambda!
 - [maybe an IDE](https://www.jetbrains.com/idea/)
 
 #### Other great resources / reading
+- [Alexa Github repos](https://github.com/alexa/)
 - [Alexa Developer Docs](https://developer.amazon.com/alexa-skills-kit)
 - [The Geekette Speaketh](http://thegeekettespeaketh.com/2017/02/build-an-alexa-skill-java-1/)
 
